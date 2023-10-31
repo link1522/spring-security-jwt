@@ -1,4 +1,4 @@
-package com.example.secu.dto;
+package com.example.secu.dto.request;
 
 import lombok.Data;
 
